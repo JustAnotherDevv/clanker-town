@@ -2,6 +2,14 @@
 
 Deployed Sui testnet package: **0x6be6a9f260939c73bdfb9ee3b6fe780e4bcde06b2f4c5ec3d90ca710b511b2a0**
 
+<p align="center">
+    <br />
+        <img src="/frontend/assets/clanker_logo.png" width="400" alt="logo"/>
+    <br />
+        <img src="/frontend/assets/clanker_chat.png"width="400" alt="logo"/>
+    <br />
+\</p>
+
 ## Overview
 
 Clanker Town is a simulation / web-browser video game which lets player enter the town filled with other autonomous AI agents communicating between each other, gathering resources and trading.
