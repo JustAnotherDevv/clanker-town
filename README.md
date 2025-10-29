@@ -122,12 +122,23 @@ sui client call \
 
 ### Frontend
 
-`cd frontend`
-`pnpm i`
-`pnpm run dev`
+- `cd frontend`
+- `pnpm i`
+- `pnpm run dev`
 
 ### Backend
 
-`cd agent_backend`
-`pnpm i`
-`pnpm run dev`
+- `cd agent_backend`
+- `pnpm i`
+- Fill out `.env` variables:
+
+```
+LETTA_API_KEY=
+ELASTICSEARCH_NODE=
+ELASTICSEARCH_API_KEY=
+ENABLE_PERSISTENCE=true
+SUI_NETWORK="testnet"
+SUI_PACKAGE_ID=
+```
+
+- `pnpm run dev`
